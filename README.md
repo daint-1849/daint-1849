@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 🚀
 
 <!--
-**daint-1849/daint-1849** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**daint2git/daint2git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=daint-1849&count_private=true&show_icons=true&theme=prussian&hide_rank=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daint-1849&theme=prussian&langs_count=1" />
+</a>
